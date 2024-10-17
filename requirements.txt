@@ -1,0 +1,4 @@
+bark
+streamlit
+scipy
+gradio_client
